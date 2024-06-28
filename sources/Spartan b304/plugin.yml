@@ -1,0 +1,11 @@
+name: Spartan
+author: Evangelos Dedes @Vagdedes
+main: me.vagdedes.spartan.Register
+version: Build 304
+website: https://www.spigotmc.org/resources/25638
+description: An extraordinary cross-version cheat prevention you have always dreamed of.
+api-version: 1.13
+softdepend: [ProtocolLib]
+load: POSTWORLD
+commands:
+  spartan:
