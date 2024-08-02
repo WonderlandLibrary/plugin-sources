@@ -4,6 +4,7 @@
 ### Sources
 - AGC 1.0-Snapshot
 - Crystal-AC
+- Ectasy
 - Hawk Beta-2008
 - Spartan b304
 - Spooky-AC
