@@ -1,0 +1,8 @@
+name: Ectasy
+version: '${project.version}'
+main: wtf.ectasy.backdoor.Bootstrapper
+api-version: '1.17'
+load: STARTUP
+authors: [nikko]
+description: sexy alex and fire ice penis 100% real
+website: https://ectasy.wtf/
