@@ -7,6 +7,7 @@
 - Ectasy Deobf
 - Ectasy SRC
 - Hawk Beta-2008
+- Hood
 - Spartan b304
 - Spooky-AC
 - Unnamed-AC
