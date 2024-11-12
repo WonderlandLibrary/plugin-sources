@@ -3,6 +3,7 @@
 
 ### Sources
 - AGC 1.0-Snapshot
+- ColdAntiCheat
 - Crystal-AC
 - Ectasy Deobf
 - Ectasy SRC
