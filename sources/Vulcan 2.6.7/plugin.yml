@@ -1,0 +1,27 @@
+name: Vulcan
+version: "2.6.7-HOTFIX"
+main: me.frep.vulcan.spigot.VulcanPlugin
+api-version: 1.13
+authors: [frep, GladUrBad, Joshb_, Elevated, retrooper, "5170"]
+description: Vulcan Cheat Detection
+softdepend: [DiscordBotAPI, PlaceholderAPI, ViaVersion, mcMMO, MythicMobs, CrackShot, LibsDisguises, floodgate, GSit, ProtocolSupport]
+
+commands:
+  alerts:
+    description: Toggle on and off Vulcan's alert messages.
+    usage: /<command>
+  verbose:
+    description: Toggle on and off Vulcan's verbose messages.
+    usage: /<command>
+  vulcan:
+    description: Vulcan's main command.
+    usage: /<command>
+  jday:
+    description: Manage Vulcan's Judgement Day feature.
+    usage: /<command>
+  logs:
+    description: In-game violations.txt access.
+    usage: /<command>
+  punishlogs:
+    description: In-game punishments.txt access.
+    usage: /<command>

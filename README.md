@@ -13,6 +13,7 @@
 - Spooky-AC
 - Unnamed-AC
 - Verus unknown version
+- Vulcan 2.6.7
 
 ### Contributing
 - Put your name (preferably your github username) in the ``contributors.list`` file if you haven't already done so in a previous commit.
