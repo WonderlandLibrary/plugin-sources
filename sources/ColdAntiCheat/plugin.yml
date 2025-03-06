@@ -1,0 +1,8 @@
+name: ColdAnticheat
+version: 1.1.0
+main: dev.coldservices.ACPlugin
+authors:
+  - credit_
+  - Onemsiz
+description: Lightweight anticheat solution.
+load: STARTUP
